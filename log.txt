@@ -1,0 +1,10 @@
+    1  touch index.js
+    2  ls
+    3  c9 index.js
+    4  git add*
+    5  git add *
+    6  git commit -m "He creado el Hola Mundo"
+    7  git push
+    8  node index.js
+    9  history
+   10  history > log.txt
